@@ -6,4 +6,5 @@ var myFirstName = "Omer";
 var myLastName = "Shah";
 var spaceChar = " ";
 var favAnimal = "Cat";
-console.log(myFirstName + spaceChar+  myLastName + spaceChar + "and my favorite animal is " + favAnimal);
+var favFood = "Pizza";
+console.log(myFirstName + spaceChar+  myLastName + spaceChar + "and my favorite animal is " + favAnimal + "and fav food is" + favFood);
