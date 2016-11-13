@@ -5,4 +5,5 @@
 var myFirstName = "Omer";
 var myLastName = "Shah";
 var spaceChar = " ";
-console.log(myFirstName + spaceChar+  myLastName);
+var favAnimal = "Cat";
+console.log(myFirstName + spaceChar+  myLastName + spaceChar + "and my favorite animal is " + favAnimal);
